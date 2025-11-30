@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Akhil Sirvi 👋
 
-<!--
-**AkhilSirvi/akhilsirvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer who loves building and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on exciting projects
+- 🌱 I'm always learning and growing my skills
+- 👯 I'm open to collaborating on interesting projects
+- 💬 Feel free to reach out to me
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilSirvi&show_icons=true&theme=default)
+
+## Get in Touch
+
+[![GitHub](https://img.shields.io/badge/GitHub-AkhilSirvi-181717?style=flat&logo=github)](https://github.com/AkhilSirvi)
+
+---
+
+Thanks for visiting my profile! 😊
