@@ -4,10 +4,7 @@
 
 I'm a passionate developer who loves building and learning new technologies.
 
-- 🔭 I'm currently working on exciting projects
 - 🌱 I'm always learning and growing my skills
-- 👯 I'm open to collaborating on interesting projects
-- 💬 Feel free to reach out to me
 
 ## GitHub Stats
 
