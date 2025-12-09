@@ -11,6 +11,10 @@ I'm a passionate developer who loves building and learning new technologies.
 
 - 🌱 I'm always learning and growing my skills
 
+![Status](https://img.shields.io/badge/Status-Learning-blue)
+
+![Mood](https://img.shields.io/badge/Mood-Chill-green)
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilSirvi&show_icons=true&theme=default)
